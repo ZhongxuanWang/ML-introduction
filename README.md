@@ -4,9 +4,11 @@
 
 
 ### s16-Bias Variance Trade-off-Notes
-- usefulness & definition
-- varaince & bias
+- bias variance trade-off definition & significance
+- varaince & bias definition, and their relationships
 - overfit & underfit
+- causes of high bias / variance
+- how to reduce variance in a model
 
 
 ### s17-Logistic-Regression-theory-Notes
