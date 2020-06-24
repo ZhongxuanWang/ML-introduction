@@ -23,3 +23,11 @@
 - use of StandardScaler to standarlize the data 
 - use of elbow method to determine the optimal k value for KNN classification
 - train, evaluate the model
+
+
+### s19-Decision-Trees-and-Random-Forests-Notes
+- Decision Tree / Random Forest Classifier definition, when to use, how they work
+- Decision Tree concepts. 
+- Random Forest: Pros/Cons, when to use...
+- specify parameter n_estimator to specify number of trees
+- POST: <a href='https://medium.com/@josemarcialportilla/enchanted-random-forest-b08d418cb411#.hh7n1co54'>random forest / decision tree explained by Jose</a>
