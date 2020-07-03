@@ -30,4 +30,23 @@
 - Decision Tree concepts. 
 - Random Forest: Pros/Cons, when to use...
 - specify parameter n_estimator to specify number of trees
-- POST: <a href='https://medium.com/@josemarcialportilla/enchanted-random-forest-b08d418cb411#.hh7n1co54'>random forest / decision tree explained by Jose</a>
+- POST: <a href='https://medium.com/@josemarcialportilla/enchanted-random-forest-b08d418cb411#.hh7n1co54'>random forest / decision tree explained by Jose</a >
+
+
+### s20-Support-Vector-Machines-Notes
+- Support Vector Machine definition, when to use, how they work, concepts(regression analysis, support vectors, hyperplane)
+- Kernal Trick
+- Breast_cacer dataset from sklearn
+- **Grid Search method**: takes a dictionary object and searches the best combination of parameters values by inspecting the cross-validation.
+- PROJECT: using Iris dataset from sklearn to classify flowers.
+
+
+### s21-K-Means-Clustering-Notes
+- KMeans definition (kw. Unsupervised, cluster, centroid, elbow method) when to use, how works, how to use
+- make_blobs method from sklearn.datasets (generate data in clusters with 'labels')
+- plt.subplot to compare results from dataset and kmeans results
+- PROJECT: using Real college dataset (generate clusters and) to predict whether is private. (kw. sns.FacetGrid)
+
+
+
+
