@@ -1,5 +1,11 @@
 # MLintro-HW-Notes-Projects
 
+> **Special Notes**
+> * This doc contains the illustrations for the notebooks (notes of mine), but it's still RECOMMENDED to read teacher's OFFICIAL NOTES as it contains more detailed and explained information
+> * Most of the materials are come from <a href='https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/'>Udemy python for DS and ML bootcamp</a>. Please refer to its term of service and course behavior rule when you want to use anything from this repo.
+
+<hr>
+
 ### s15
 
 
@@ -42,10 +48,25 @@
 
 
 ### s21-K-Means-Clustering-Notes
-- KMeans definition (kw. Unsupervised, cluster, centroid, elbow method) when to use, how works, how to use
+- KMeans definition (*kw. Unsupervised, cluster, centroid, elbow method*) when to use, how works, how to use
 - make_blobs method from sklearn.datasets (generate data in clusters with 'labels')
 - plt.subplot to compare results from dataset and kmeans results
 - PROJECT: using Real college dataset (generate clusters and) to predict whether is private. (kw. sns.FacetGrid)
+
+
+### s22-Principal-Component-Analysis-Notes
+- PCA's definition, (*kw. Unsupervised, data analysis technique, interrelationships of vairables, factor analysis, dimension reduction*) how to use, when to use
+- Get PCA's components
+- REAPPEAR: StandardScaler method and breast_cancer dataset
+- NO PROJECT, reading teacher's notes is recommended 
+
+
+### s23-Recommender-Systems-Notes
+- Recommender System's catogories, definitions (*kw. Content-Based, Collaboritive-Filtering, complex*), how to use, when to use
+- pandas.DataFrame.pivot_table: to organize the data from DataFrame
+- pandas.DataFrame.corrwith: get the correlation(0-1) between two DataFrames
+- REAPPEAR: pandas merge, groupby, sort_values, jointplot...
+- NO PROJECT, also reading teacher's notes is recommended (advanced RS)
 
 
 
