@@ -19,6 +19,7 @@
 
 ### s17-Logistic-Regression-theory-Notes
 - logistic regression
+- pandas.DataFrame.isnull and seaborn.heatmap to clean the data with missing values
 - use get_dummies to clean the data 
 - use classification_report/confusion matrix to evaluate the model (first)
 - how to increase precision / recall / accuracy?
